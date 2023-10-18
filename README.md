@@ -1,4 +1,4 @@
-[![MasterHead](https://www.blogger.com/blog/post/edit/5901652963936318545/4100355978777213190)]
+[![MasterHead](https://i.pinimg.com/originals/4b/e2/6f/4be26f78403b18f152f648c6ce4553bc.gif)]
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
