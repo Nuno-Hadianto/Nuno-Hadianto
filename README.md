@@ -1,8 +1,7 @@
-![Header](./![github-header-image](https://github.com/Nuno-Hadianto/Nuno-Hadianto/assets/63713816/88065424-6f09-479f-a5a8-ea222f1886a6)
-)
+![Header](./![github-header-image](https://github.com/Nuno-Hadianto/Nuno-Hadianto/assets/63713816/88065424-6f09-479f-a5a8-ea222f1886a6))
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno-hadianto&label=Profile%20views&color=0e75b6&style=flat" alt="nuno-hadianto" /> </p>
 
@@ -23,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuno-hadianto&show_icons=true&locale=en&layout=compact" alt="nuno-hadianto" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&" alt="nuno-hadianto" /></p>
