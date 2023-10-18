@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuno-hadianto&show_icons=true&locale=en&layout=compact" alt="nuno-hadianto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&" alt="nuno-hadianto" /></p>
