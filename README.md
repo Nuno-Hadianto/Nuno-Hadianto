@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![Header](./![github-header-image](https://github.com/Nuno-Hadianto/Nuno-Hadianto/assets/63713816/88065424-6f09-479f-a5a8-ea222f1886a6)
+)
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
