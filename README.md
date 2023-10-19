@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno-hadianto&label=Profile%20views&color=0e75b6&style=flat" alt="nuno-hadianto" /> </p>
 
-- 🌱 Saya sedang belajar **Basic Coding**
+- 🌱 Saya sedang belajar **Coding**
 
 - 📫 Email Saya **nunohadianto@gmail.com**
 
