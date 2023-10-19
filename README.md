@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mohammed noeno hadianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed noeno hadianto" height="30" width="40" /></a>
+<a href= https://www.facebook.com/mohammednoeno.hadianto/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed noeno hadianto" height="30" width="40" /></a>
 <a href= https://instagram.com/nunohadianto_?igshid=OGQ5ZDc2ODk2ZA== target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nunohadianto" height="30" width="40" /></a>
 <a
 href=https://youtube.com/@nunohadianto?si=Yl-EiCCBdURT91GO " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nunohadianto" height="30" width="40" /></a>
