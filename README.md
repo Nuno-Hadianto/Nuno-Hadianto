@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif(
+![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif)
 ![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif)
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
