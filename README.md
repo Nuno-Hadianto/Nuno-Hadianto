@@ -27,3 +27,7 @@ href=https://youtube.com/@nunohadianto?si=Yl-EiCCBdURT91GO " target="blank"><img
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&" alt="nuno-hadianto" /></p>
+
+<audio autoplay>
+  <source src="song.mp3" type="audio/mpeg">
+</audio>
