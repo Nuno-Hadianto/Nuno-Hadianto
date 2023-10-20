@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif)
-![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif)
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
