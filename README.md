@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Seni%20Kanal%20YouTube%20Olahraga%20NoirVaporwave%20Neon%20Hitam%20Ungu%20dan%20Sian.png)
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1682644622890705954/104D004D10EFE271024CFB0A9D99F6205293D6F5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Assalamualaikum 👋, Saya Mohammed Noeno Hadianto</h1>
 <h3 align="center">Mahasiswa Sistem Informasi 2023</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
