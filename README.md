@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuno-hadianto&label=Profile%20views&color=0e75b6&style=flat" alt="nuno-hadianto" /> </p>
 
-- 🌱 Saya sedang belajar **Coding**
+- Saya sedang belajar **Coding**
 
 <h3 align="left">Mampir gess:</h3>
 <p align="left">
