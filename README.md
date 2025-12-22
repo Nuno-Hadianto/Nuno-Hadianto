@@ -10,10 +10,6 @@
 <p align="left">
 <a href= https://instagram.com/nunohadianto_?igshid=OGQ5ZDc2ODk2ZA== target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nunohadianto" height="30" width="40" /></a>
 
-
-<h3 align="left">Sering make:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuno-hadianto&show_icons=true&locale=en&layout=compact" alt="nuno-hadianto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&locale=en" alt="nuno-hadianto" /></p>
