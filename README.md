@@ -1,7 +1,5 @@
 ![poto1](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif)
 ![poto2](https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif)
-
-- Saya sedang belajar **Coding**
   
 <img align="" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
