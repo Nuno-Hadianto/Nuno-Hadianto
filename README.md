@@ -1,8 +1,8 @@
 # Hi there! I'm Nuno Hadianto 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif" alt="Artwork Middle" width="49%" />
-  <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif" alt="Artwork Right" width="49%" />
+  <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif" alt="Artwork Middle" />
+  <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif" alt="Artwork Right" />
 </p>
 
 ---
