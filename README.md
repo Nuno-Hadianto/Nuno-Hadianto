@@ -1,4 +1,5 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3500&pause=1000&color=10B981&center=false&vCenter=true&width=500&lines=Halo!+Saya+Nuno+Hadianto+👋%3BSoftware+Developer+💻%3BDesktop+%26+Web+Creator+🚀" alt="Typing SVG" />
+# Halo! Saya Nuno Hadianto 👋
+### 💻 Software Developer | Desktop & Web Creator
 
 <p align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=Nuno-Hadianto.Nuno-Hadianto&label=Pengunjung&countColor=%2310b981&labelColor=%231e293b&style=flat-square" alt="Visitor Count" />
