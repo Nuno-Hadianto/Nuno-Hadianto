@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3500&pause=1000&color=10B981&center=false&vCenter=true&width=500&lines=Halo!+Saya+Nuno+Hadianto+👋;Software+Developer+💻;Desktop+%26+Web+Creator+🚀" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3500&pause=1000&color=10B981&center=false&vCenter=true&width=500&lines=Halo!+Saya+Nuno+Hadianto+👋%3BSoftware+Developer+💻%3BDesktop+%26+Web+Creator+🚀" alt="Typing SVG" />
 
 <p align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=Nuno-Hadianto.Nuno-Hadianto&label=Pengunjung&countColor=%2310b981&labelColor=%231e293b&style=flat-square" alt="Visitor Count" />
@@ -7,12 +7,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif" alt="Artwork Middle" />
   <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif" alt="Artwork Right" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuno-hadianto&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
