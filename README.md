@@ -1,6 +1,3 @@
-# Halo! Saya Nuno Hadianto 👋
-### 💻 Software Developer | Desktop & Web Creator
-
 <p align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=Nuno-Hadianto.Nuno-Hadianto&label=Pengunjung&countColor=%2310b981&labelColor=%231e293b&style=flat-square" alt="Visitor Count" />
 </p>
