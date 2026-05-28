@@ -53,7 +53,6 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pengembangan a
 
 ---
 
-### 📫 Hubungi Saya
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/" target="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/">
