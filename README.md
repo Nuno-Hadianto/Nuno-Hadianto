@@ -39,15 +39,14 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pengembangan a
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik Aktivitas GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuno-hadianto&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-hadianto&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman Teratas" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuno-hadianto&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
