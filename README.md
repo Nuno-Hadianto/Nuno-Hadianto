@@ -11,7 +11,7 @@
 
 ### 💫 Tentang Saya
 
-Saya adalah seorang pengembang perangkat lunak yang berfokus pada pengembangan aplikasi desktop dan web. Saya senang membangun sistem *offline-first*, mengotomatiskan alur kerja, dan merancang antarmuka pengguna yang ramah dan interaktif.
+Berfokus pada pengembangan aplikasi. Saya senang membangun sistem *offline-first*, mengotomatiskan alur kerja, dan merancang antarmuka pengguna yang ramah dan interaktif.
 
 * 🛠️ **Fokus Saat Ini:** Pengembangan Aplikasi Desktop menggunakan Electron & SQLite.
 * 🚀 **Proyek Unggulan:** [QurbanApp](https://github.com/Nuno-Hadianto/QurbanApp) — Aplikasi desktop *offline-first* untuk pendataan kurban luring yang dibangun dengan Electron, SQLite, dan Bootstrap.
