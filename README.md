@@ -1,8 +1,18 @@
-# Halo! Saya Nuno Hadianto 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&duration=3500&pause=1000&color=10B981&center=false&vCenter=true&width=500&lines=Halo!+Saya+Nuno+Hadianto+👋;Software+Developer+💻;Desktop+%26+Web+Creator+🚀" alt="Typing SVG" />
+
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Nuno-Hadianto.Nuno-Hadianto&label=Pengunjung&countColor=%2310b981&labelColor=%231e293b&style=flat-square" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Middle.gif" alt="Artwork Middle" />
   <img src="https://raw.githubusercontent.com/Nuno-Hadianto/Nuno-Hadianto/main/Artwork_Right.gif" alt="Artwork Right" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nuno-hadianto&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -53,5 +63,21 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pengembangan a
 
 ### 📫 Hubungi Saya
 
-* 💼 **Portofolio GitHub:** [github.com/nuno-hadianto](https://github.com/nuno-hadianto)
-* 💻 Jangan ragu untuk menjelajahi repositori saya atau menghubungi saya untuk kolaborasi!
+<p align="left">
+  <a href="https://github.com/nuno-hadianto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/username_anda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/username_anda" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:email_anda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+* Jangan ragu untuk menjelajahi repositori saya atau menghubungi saya untuk kolaborasi!
