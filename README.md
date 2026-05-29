@@ -45,21 +45,6 @@ Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatisk
 
 ---
 
-### 📊 Statistik GitHub
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nuno-Hadianto&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno-Hadianto&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-### 🤝 Hubungi Saya
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
