@@ -15,7 +15,6 @@ Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatisk
 
 ---
 
-
 #### 🌐 Pengembangan Web & Desktop
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -36,7 +35,6 @@ Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatisk
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
@@ -47,12 +45,23 @@ Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatisk
 
 ---
 
+### 📊 Statistik GitHub
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/" target="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nuno-Hadianto&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno-Hadianto&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
-Belajar bareng Ikmal
-Belajar bareng Arsyal
+---
+
+### 🤝 Hubungi Saya
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
