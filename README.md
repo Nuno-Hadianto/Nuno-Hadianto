@@ -11,7 +11,7 @@
 
 ### 💫 Tentang Saya
 
-Berfokus pada pengembangan aplikasi. Saya senang membangun sistem *offline-first*, mengotomatiskan alur kerja, dan merancang antarmuka pengguna yang ramah dan interaktif.
+Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatiskan alur kerja, dan merancang antarmuka pengguna yang ramah dan interaktif.
 
 ---
 
