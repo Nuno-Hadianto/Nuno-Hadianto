@@ -53,3 +53,6 @@ Berfokus pada pengembangan aplikasi. Saya senang membangun sistem, mengotomatisk
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+Belajar bareng Ikmal
+Belajar bareng Arsyal
