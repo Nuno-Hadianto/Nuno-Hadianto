@@ -44,9 +44,3 @@ Berfokus pada pengembangan aplikasi. membangun sistem, mengotomatiskan alur kerj
 </p>
 
 ---
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-noeno-hadianto-1a42771a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
