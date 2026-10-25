@@ -38,5 +38,3 @@ Berfokus pada pengembangan aplikasi. membangun sistem, mengotomatiskan alur kerj
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuno-hadianto&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
-
----
